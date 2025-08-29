@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Artisan",
+  "description": "An application that generates, designs, and formats professional resumes using AI. Users can input a profession to receive a visually appealing resume, initially as an image, with options",
+  "requestFramePermissions": []
+}
