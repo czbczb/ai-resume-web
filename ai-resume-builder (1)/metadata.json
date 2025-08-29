@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An application to generate, edit, and download professional resumes using AI.",
+  "requestFramePermissions": []
+}
